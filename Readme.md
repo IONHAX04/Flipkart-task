@@ -11,3 +11,8 @@ Instructions
 To achieve the above task the steps are needed to be as follows
 First create the file structure
 For Your Reference: ![image](https://github.com/IONHAX04/Flipkart-task/assets/93087438/b3eeb82d-9eba-478d-a1ab-a0943f14a149)
+
+Next use composer init
+![image](https://github.com/IONHAX04/Flipkart-task/assets/93087438/d2ce839a-3ad5-4ecb-86cc-9e6be9078b47)
+use the package type as project for this
+FYR: Package Type (e.g. library, project, metapackage, composer-plugin) []: project
