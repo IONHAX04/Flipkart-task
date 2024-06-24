@@ -1,0 +1,20 @@
+{
+    "name": "ionhax/flipkart",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ionhax\\Flipkart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IONHAX04",
+            "email": "thirukumara04@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "predis/predis": "^2.2",
+        "mongodb/mongodb": "^1.17"
+    }
+}
