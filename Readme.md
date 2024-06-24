@@ -16,3 +16,9 @@ Next use composer init
 ![image](https://github.com/IONHAX04/Flipkart-task/assets/93087438/d2ce839a-3ad5-4ecb-86cc-9e6be9078b47)
 use the package type as project for this
 FYR: Package Type (e.g. library, project, metapackage, composer-plugin) []: project
+
+Use the following commands to isntall the packages
+composer require vlucas/phpdotenv predis/predis mongodb/mongodb
+![image](https://github.com/IONHAX04/Flipkart-task/assets/93087438/72a32ebe-719e-468c-acb6-edd9a940a654)
+
+Before this,check that the php, mongodb, mysql all are installed or not
