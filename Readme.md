@@ -22,3 +22,10 @@ composer require vlucas/phpdotenv predis/predis mongodb/mongodb
 ![image](https://github.com/IONHAX04/Flipkart-task/assets/93087438/72a32ebe-719e-468c-acb6-edd9a940a654)
 
 Before this,check that the php, mongodb, mysql all are installed or not
+
+
+use command 
+- composer require twbs/bootstrap-icons
+- composer require twbs/bootstrap:5.3.3
+
+to install bootstrap icons & bootstrap
